@@ -1,0 +1,323 @@
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.vbproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Resources.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.vbproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.exe.config
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.exe
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.exe
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.LoginForm.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.vbproj.CopyComplete
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.DashboardForm.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.ServerConfiguration.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.GuestForm.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.SubDashboard.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateGuest.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Reservation.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateOrder.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateReservation.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateUsers.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Users.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Inventory.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.PackageandPromos.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Products.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Rooms.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateCertificates.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Certificates.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.FoodInformation.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateFood.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdatePackageandPromos.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateRooms.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Consumed.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Expenses.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Sales.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Stocks.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateExpenses.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Protobuf.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\MySql.Data.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Buffers.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Memory.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Protobuf.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Protobuf.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\MySql.Data.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Buffers.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Memory.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Equipment.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateEquipment.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.GuestOrders.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.exe.manifest
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\AMS.application
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.exe.manifest
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.application
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.RoomCheckinStatus.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.CheckInList.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.UpdateQtyOrder.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddOrderEquipment.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.UpdateEquipQty.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.SubparentStocks.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.EquipStocks.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddPackage.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\EnvDTE.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\stdole.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.BillOut.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Core.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Core.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.WalkinDaytour.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.ServerConfigAuth.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.AddUpdateStocks.resources
+C:\Users\joshu\OneDrive\Desktop\Arthurs Management System\AMS\obj\Debug\AMS.Loading.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.exe.config
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.exe.manifest
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.application
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.exe
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\AMS.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Core.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Protobuf.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\MySql.Data.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Buffers.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Memory.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\EnvDTE.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\stdole.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Core.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Protobuf.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Google.Protobuf.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\MySql.Data.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Buffers.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Memory.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.vbproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateCertificates.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Certificates.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.BillOut.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.UpdateEquipQty.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.CheckInList.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddOrderEquipment.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateOrder.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.GuestOrders.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.UpdateQtyOrder.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddPackage.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateGuest.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.GuestForm.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateReservation.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Reservation.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.SubDashboard.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.DashboardForm.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Loading.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.LoginForm.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.ServerConfiguration.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Consumed.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateExpenses.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Expenses.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Inventory.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateStocks.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.EquipStocks.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Stocks.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.SubparentStocks.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Resources.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateEquipment.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Equipment.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdatePackageandPromos.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.PackageandPromos.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateFood.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.FoodInformation.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Products.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateRooms.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Rooms.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.AddUpdateUsers.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Users.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.vbproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.exe.manifest
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.application
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.vbproj.CopyComplete
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.exe
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.xml
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.pdb
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Settings.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.EditEmailTemplate.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.EmailTemplates.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Pathconfig.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Logs.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.SalesSubparent.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Refund.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Receipt.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.Revenue.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.SalesReport.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.VerifyEmail.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.OTP.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.ResetPassword.resources
+C:\Users\joshu\OneDrive\Desktop\AMS\obj\Debug\AMS.OnlineTab.resources
